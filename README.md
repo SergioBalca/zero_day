@@ -21,5 +21,9 @@ How to merge branches
 How to work as collaborators on a project
 Which files should and which files should not appear in your repo.
 
+
+This file was edited in the visual interface. This is the only time we are alowded to do that. 
+
+
 Project made by Sergio Balcázar for Holberton School.
 
